@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718484584494",
+    "project_id": "finwallet-4c389",
+    "storage_bucket": "finwallet-4c389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718484584494:android:8a266516437ed06fd0c7bf",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwalletx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoQxJ7KKM-esSgULP_Erle_5fff7WHANk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
